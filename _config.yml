@@ -1,0 +1,28 @@
+name: beaumontshutters
+favicon: null
+layout_spectrum: 0.36651602294296026
+typography_spectrum: 0.06761432578787208
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1396796191111207
+  lightness: 0.43017450999468565
+  saturation: 0.8326420085504651
+  rhythmicContrast: 0.6464167435187846
+purpose: []
